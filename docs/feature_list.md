@@ -109,7 +109,7 @@
 ```
 DevinTest/
 ├── README.md                                    # リポジトリドキュメント
-├── dcos/                                       # ドキュメントと分析フォルダ
+├── docs/                                       # ドキュメントと分析フォルダ
 │   └── feature_list.md                        # この機能一覧ドキュメント
 ├── *.sql                                      # PL/SQLサンプルファイル
 └── [Various PL/SQL procedures and functions]  # 個別実装ファイル
