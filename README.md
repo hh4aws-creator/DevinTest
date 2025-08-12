@@ -1,2 +1,2 @@
-# DevinTest
-Devinをテストするためのリポジトリです。
+# plsql
+PL/SQL Examples
