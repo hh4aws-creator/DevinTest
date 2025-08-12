@@ -361,4 +361,5 @@ graph TD
 ---
 *生成日: 2025年8月12日*  
 *リポジトリ: hh4aws-creator/DevinTest*  
-*68以上のPL/SQLファイルのCRUD操作を包括的に分析*
+*68以上のPL/SQLファイルのCRUD操作を包括的に分析*  
+*ドキュメント場所: docs/crud_diagrams.md*
